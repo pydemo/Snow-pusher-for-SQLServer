@@ -5,7 +5,8 @@ Stream data from SQL Server to Snowflake using pyodbc.
 
 ```
 1. Connect to SQL Server
-    -> fetchmany
-        -> multipart upload to s3
-            -> COPY INTO Snowflake table
+    -> loop
+        - fetchmany
+        - multipart upload to s3
+    -> Bulk COPY INTO Snowflake table
 ```        
