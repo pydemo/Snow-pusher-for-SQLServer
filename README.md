@@ -12,5 +12,5 @@ Stream data from SQL Server to Snowflake using pyodbc.
 ```        
 
 
-## Other scrips
+## Other scripts
 https://github.com/pydemo/snowcli - Snowflake cli.
