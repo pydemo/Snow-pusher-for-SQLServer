@@ -10,3 +10,7 @@ Stream data from SQL Server to Snowflake using pyodbc.
         - multipart upload to s3
     -> Bulk COPY INTO Snowflake table
 ```        
+
+
+## Other scrips
+https://github.com/pydemo/snowcli
