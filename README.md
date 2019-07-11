@@ -14,3 +14,6 @@ Stream data from SQL Server to Snowflake using pyodbc.
 
 ## Other scripts
 https://github.com/pydemo/snowcli - Snowflake cli.
+
+
+https://github.com/pydemo/large-file-split-compress-parallel-upload-to-S3 - Chunked large file upload to S3.
