@@ -1,4 +1,4 @@
-# Snowpipe-for-SQLServer
+# Snow-pusher-for-SQLServer
 SQL Server to Snowflake data transfer.
 
 Stream data from SQL Server to Snowflake using pyodbc.
