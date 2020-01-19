@@ -1,7 +1,7 @@
 # Snow-pusher-for-SQLServer
 SQL Server to Snowflake data transfer.
 
-Stream data from SQL Server to Snowflake using pyodbc.
+Copy data from SQL Server to Snowflake using pyodbc.
 
 ![Snow pusher](https://raw.githubusercontent.com/pydemo/Snow-pusher-for-SQLServer/master/snow-pusher.jpg "Snowflake data load.")
 
