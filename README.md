@@ -1,3 +1,5 @@
+[I'm looking for a new gig](https://github.com/pydemo/Resume)
+
 # Snow-pusher-for-SQLServer
 SQL Server to Snowflake data transfer.
 
